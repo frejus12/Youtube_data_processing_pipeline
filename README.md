@@ -2,7 +2,7 @@
  
 ### L'objectif de ce projet est de créer une pipeline de traitement de données sur AWS qui permet de collecter et traiter des données provenant d'un compartiment Amazon S3 pour une utilisation ultérieure par Amazon Quicksight.
 
-Les données utilisées proviennet de Kaggle. Cet ensemble de données comprend plusieurs mois (et plus) de données sur les vidéos YouTube à la mode chaque jour. Les données sont incluses pour les régions US, GB, DE, CA et FR (respectivement les États-Unis, la Grande-Bretagne, l'Allemagne, le Canada et la France), avec jusqu'à 200 vidéos tendance répertoriées par jour.
+Les données utilisées proviennent de Kaggle. Cet ensemble de données comprend plusieurs mois (et plus) de données sur les vidéos YouTube à la mode chaque jour. Les données sont incluses pour les régions US, GB, DE, CA et FR (respectivement les États-Unis, la Grande-Bretagne, l'Allemagne, le Canada et la France), avec jusqu'à 200 vidéos tendance répertoriées par jour.
 
 Les données de chaque région sont dans un fichier séparé. Les données comprennent le titre de la vidéo, le titre de la chaîne, l'heure de publication, les tags, les vues, les likes et les dislike , la description et le nombre de commentaires.
 
