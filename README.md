@@ -5,6 +5,10 @@ données provenant d'un compartiment Amazon S3 pour une utilisation ultérieure 
 
 - Les outils utilisés sont: Pyspark, Amazon S3, AWS Glue, AWS lambda, Amazon Quicksight.
 
-L'architeture de traitement est la suivante
+L'architeture de traitement est la suivante:
 
 ![Capture d’écran 2022-05-08 151831](https://user-images.githubusercontent.com/32554421/167301683-9cc9ed75-b596-4935-b60f-06ca0dea464c.png)
+
+Une fois les donnés dans le bon format ils sont chargés dans Amazon Quicksight pour la réalisation de dashboards comme.
+
+![Capture d’écran 2022-05-08 152247](https://user-images.githubusercontent.com/32554421/167301896-0fb41fb7-5551-46e1-ae4d-2bf9d3ff798f.png)
